@@ -1,4 +1,4 @@
-# 
+# premium Plugin for GIMP for PC | GIMP for Windows - texture-painting and export-presets is the best GIMP for PC | GIMP for Windows plugin, featuring texture-painting and
 
 
 
